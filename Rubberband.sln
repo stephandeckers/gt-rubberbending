@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rubberband", "Rubberband.csproj", "{49FD6CDE-DD24-4952-B9DE-7AD758B35EFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		ITT|Any CPU = ITT|Any CPU
+		ITT|x86 = ITT|x86
+		pITT|Any CPU = pITT|Any CPU
+		pITT|x86 = pITT|x86
+		PROD|Any CPU = PROD|Any CPU
+		PROD|x86 = PROD|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+		UAT|Any CPU = UAT|Any CPU
+		UAT|x86 = UAT|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49FD6CDE-DD24-4952-B9DE-7AD758B35EFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49FD6CDE-DD24-4952-B9DE-7AD758B35EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49FD6CDE-DD24-4952-B9DE-7AD758B35EFB}.Debug|x86.ActiveCfg = Debug|x86
+		{49FD6CDE-DD24-4952-B9DE-7AD758B35EFB}.Debug|x86.Build.0 = Debug|x86
+		{49FD6CDE-DD24-4952-B9DE-7AD758B35EFB}.ITT|Any CPU.ActiveCfg = ITT|Any CPU
+		{49FD6CDE-DD24-4952-B9DE-7AD758B35EFB}.ITT|Any CPU.Build.0 = ITT|Any CPU
+		{49FD6CDE-DD24-4952-B9DE-7AD758B35EFB}.ITT|x86.ActiveCfg = ITT|x86
+		{49FD6CDE-DD24-4952-B9DE-7AD758B35EFB}.ITT|x86.Build.0 = ITT|x86
+		{49FD6CDE-DD24-4952-B9DE-7AD758B35EFB}.pITT|Any CPU.ActiveCfg = pITT|Any CPU
+		{49FD6CDE-DD24-4952-B9DE-7AD758B35EFB}.pITT|Any CPU.Build.0 = pITT|Any CPU
+		{49FD6CDE-DD24-4952-B9DE-7AD758B35EFB}.pITT|x86.ActiveCfg = pITT|x86
+		{49FD6CDE-DD24-4952-B9DE-7AD758B35EFB}.pITT|x86.Build.0 = pITT|x86
+		{49FD6CDE-DD24-4952-B9DE-7AD758B35EFB}.PROD|Any CPU.ActiveCfg = PROD|Any CPU
+		{49FD6CDE-DD24-4952-B9DE-7AD758B35EFB}.PROD|Any CPU.Build.0 = PROD|Any CPU
+		{49FD6CDE-DD24-4952-B9DE-7AD758B35EFB}.PROD|x86.ActiveCfg = PROD|x86
+		{49FD6CDE-DD24-4952-B9DE-7AD758B35EFB}.PROD|x86.Build.0 = PROD|x86
+		{49FD6CDE-DD24-4952-B9DE-7AD758B35EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49FD6CDE-DD24-4952-B9DE-7AD758B35EFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49FD6CDE-DD24-4952-B9DE-7AD758B35EFB}.Release|x86.ActiveCfg = Release|x86
+		{49FD6CDE-DD24-4952-B9DE-7AD758B35EFB}.Release|x86.Build.0 = Release|x86
+		{49FD6CDE-DD24-4952-B9DE-7AD758B35EFB}.UAT|Any CPU.ActiveCfg = UAT|Any CPU
+		{49FD6CDE-DD24-4952-B9DE-7AD758B35EFB}.UAT|Any CPU.Build.0 = UAT|Any CPU
+		{49FD6CDE-DD24-4952-B9DE-7AD758B35EFB}.UAT|x86.ActiveCfg = UAT|x86
+		{49FD6CDE-DD24-4952-B9DE-7AD758B35EFB}.UAT|x86.Build.0 = UAT|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5728B56-FD99-45F4-8AB4-611A261087BE}
+	EndGlobalSection
+EndGlobal
